@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @abaid1122
-- 👀 I’m interested in block chain technology. 
-- 🌱 I’m currently learning solidity.
-- 💞️ I’m looking to collaborate on block chain based projects.
 - 📫 How to reach me ...abaid664@gmail.com
 
 <!---
